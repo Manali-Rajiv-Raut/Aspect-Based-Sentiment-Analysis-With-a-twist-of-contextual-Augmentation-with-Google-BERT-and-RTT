@@ -7,5 +7,7 @@ Aspect-based sentiment analysis is fine-grained sentiment analysis, which aims t
 
 
 For the detail information please go though my blog : https://manaliraut2.medium.com/and-the-machine-replied-i-do-3a3033f8985c
+
 Here is the link for deployed app : https://absa-api.herokuapp.com/
+
 You can also check the demo video here : https://www.youtube.com/watch?v=qXpbJ4Bdjco&feature=youtu.be
