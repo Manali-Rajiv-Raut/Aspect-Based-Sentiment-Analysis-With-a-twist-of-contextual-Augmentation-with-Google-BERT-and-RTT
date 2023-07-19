@@ -11,3 +11,5 @@ For the detail information please go though my blog : https://manaliraut2.medium
 Here is the link for deployed app : https://absa-api.herokuapp.com/
 
 You can also check the demo video here : https://www.youtube.com/watch?v=qXpbJ4Bdjco&feature=youtu.be
+
+If you find the article useful, You can buy me a book here : https://bmc.link/manaliraut
